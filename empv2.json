@@ -1,0 +1,25 @@
+{
+  "name": "EMPv2",
+  "symbol": "EMPv2",
+  "description": "Legacy Has a Coin — EMPCOINv2 ($EMPv2) is the empowerment currency from Empress Speaks. Part meme, part movement — turning viral energy into real-world equity and cultural empowerment. Set the standard. Join the movement. EMPv2 is the official token of GBEI and Empress Speaks LLC, temporarily replacing EMP Coin v1 until full administrative control is restored. Legacy Has a Coin — EMPCOINv2 ($EMPv2) is the empowerment currency from Empress Speaks. Part meme, part movement — turning viral energy into real-world equity and cultural empowerment. Set the standard. Join the movement. Once EMP Coin v1 is recovered, both tokens will operate concurrently within the ecosystem. © 2025 Tarreka-Shatease Barrington, Sole Rights Holder, Trustee of the GBEI Trust and Empress Speaks LLC.",
+  "image": "https://raw.githubusercontent.com/GBEIadmin/empv2-assets/main/empv2-logo.png",
+  "extensions": {
+    "website": "https://gbeiaffiliates.org",
+    "twitter": "https://twitter.com/empcoinhq"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/GBEIadmin/empv2-assets/main/empv2-logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3unBzJkh79MuixNl96E7Fi7t9J6QHuCLsFYfQr2zgJM",
+        "share": 100
+      }
+    ]
+  }
+}
