@@ -1,23 +1,19 @@
 {
-  "name": "Empcoin v2",
+  "name": "EMPCOIN v2",
   "symbol": "EMPv2",
-  "description": "EMPv2 is the official token of GBEI and Empress Speaks (DBA) under Empress Speaks LLC, temporarily replacing EMP Coin v1 until full administrative control is restored. Legacy Has a Coin — EMPCOINv2 ($EMPv2) is the empowerment currency from Empress Speaks. Part meme, part movement — turning viral energy into real-world equity and cultural empowerment. Set the standard. Join the movement.",
+  "description": "EMPv2 is the official token of GBEI and Empress Speaks (DBA) under Empress Speaks LLC, temporarily replacing EMP Coin v1 until full administrative control is restored.",
   "image": "https://raw.githubusercontent.com/GBEIadmin/empv2-assets/main/assets/mainnet/CexvUckwJ9gmfSN9ESR3XhvrbVkkrpsbNa5fNvoa8h4/logo-empv2.png",
-"properties": {
-  "files": [
-    {
-      "uri": "https://raw.githubusercontent.com/GBEIadmin/empv2-assets/main/assets/mainnet/CexvUckwJ9gmfSN9ESR3XhvrbVkkrpsbNa5fNvoa8h4/logo-empv2.png",
-      "type": "image/png"
-    }
-  ],
-  "category": "image"
-}
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/GBEIadmin/empv2-assets/main/assets/mainnet/CexvUckwJ9gmfSN9ESR3XhvrbVkkrpsbNa5fNvoa8h4/logo-empv2.png",
+        "type": "image/png"
       }
     ],
     "category": "image",
     "creators": [
       {
-        "address": "3unBzJkh79MuixNL96E7Fi7J9GQhUCSfYfoQ72gjM",
+        "address": "3unBzJkh79MuixNL96E7Fi7J9GQhUCSfyfoQ72gjM",
         "share": 100
       }
     ]
